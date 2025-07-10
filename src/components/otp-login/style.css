@@ -1,0 +1,9 @@
+.otp-screen div{
+    display: flex;
+    gap: 20px;
+}
+.otp-screen input{
+  height: 50px;
+  width: 50px;
+}
+ 

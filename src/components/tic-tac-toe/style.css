@@ -1,0 +1,11 @@
+section{
+  display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+button{
+  height: 100px;
+    width: 100px;
+}
